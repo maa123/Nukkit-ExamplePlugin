@@ -1,4 +1,4 @@
-package maa.test.plugin.ExPlugin;
+package maa123.example.plugin.ExPlugin;
 
 import java.util.List;
 import java.util.Map;
